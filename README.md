@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Neetesh Kumar
+- 👋 Hi, I’m Neetesh Kumar.. 
 - 👀 I’m interested in Devlopment
 - 🌱 I’m currently learning Fullstack Devlopment
 - 💞️ I’m looking to collaborate on Github
