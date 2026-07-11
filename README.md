@@ -79,7 +79,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neetesh1541&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
-
+![](https://github-profile-trophy.vercel.app/?username=neetesh1541&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)
 ## 💬 Quote
 
 > **Code. Create. Innovate. Repeat.**
