@@ -1,147 +1,94 @@
-<div align="center">
 
-# 👋 Hey, I'm Neetesh Sharma
+# 👋 Hi, I'm Neetesh Sharma
 
-### 🚀 Full Stack Developer • AI Engineer • Founder of HackLoop
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Premium+Digital+Experiences;Full+Stack+Developer;AI+Automation+Builder;Open+Source+Contributor;Always+Learning+Something+New" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=180&section=header"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Neetesh Sharma
-Role: Full Stack Developer
-Focus: AI • Web • Automation
-Founder: HackLoop Community
-Portfolio: https://neetesh.tech
-Email: neeteshk1104@gmail.com
-```
-
----
-
-# 🌐 Connect With Me
+> 🚀 Full Stack Developer • AI Enthusiast • Founder of HackLoop
 
 <p align="center">
-
-<a href="https://neetesh.tech">
-<img src="https://skillicons.dev/icons?i=cloudflare" />
-</a>
-
-<a href="https://linkedin.com/in/neetesh-kumar-846616287">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com/neetesh_sharma____">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:neeteshk1104@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/neetesh1541">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Automation+Builder;Founder+of+HackLoop;Building+Premium+Digital+Experiences" />
 </p>
 
----
-
-# ⚡ Tech Stack
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:2563EB,100:7C3AED&text=Neetesh%20Sharma&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
+</p>
 
 <p align="center">
+<img src="https://github.com/neetesh1541.png" width="180" style="border-radius:50%" />
+</p>
 
+## 🚀 About Me
+
+- 💻 Building modern Full Stack applications
+- 🤖 Exploring AI & Automation
+- 🌱 Learning **Next.js, AI & System Design**
+- 🌐 Founder of **HackLoop**
+- 💼 Building **NexGen**
+- 📧 **neeteshk1104@gmail.com**
+- 🌍 **https://neetesh.tech**
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neetesh-kumar-846616287)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/neetesh_sharma____)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yvkUnU2h)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neetesh.tech)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neeteshk1104@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,python,java,c,mongodb,supabase,firebase,docker,git,github,azure,figma,vscode,postman&perline=7"/>
-
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| **NexGen** | Premium Web & AI Agency |
-| **HackLoop** | Tech Community Platform |
-| **WebGenie** | AI Website Generator |
-| **FakeFact** | AI Cyber Security Tool |
-| **Mummy Meals** | Food Startup Platform |
-| **BhedChaal** | AI Crowd Management |
+- 🌐 **NexGen** – Premium Web & AI Agency
+- 👥 **HackLoop** – Developer Community
+- 🤖 **WebGenie** – AI Website Builder
+- 🛡️ **FakeFact** – AI Cyber Security
+- 🍱 **Mummy Meals**
+- 🚦 **BhedChaal**
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=neetesh1541&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=neetesh1541&theme=tokyonight&show_icons=true&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=neetesh1541&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetesh1541&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neetesh1541&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=neetesh1541&theme=tokyonight&no-frame=true&column=6"/>
-
 </p>
 
----
+## 💬 Quote
 
-# 💻 Currently Working On
-
-- 🚀 NexGen
-- 🤖 AI Automation
-- 🌐 Premium Websites
-- ⚡ SaaS Products
-- 💙 Open Source
+> **Code. Create. Innovate. Repeat.**
 
 ---
 
-# ✨ Quote
-
-<div align="center">
-
-### *"Code. Create. Innovate. Repeat."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=150&section=footer"/>
-
-### ❤️ Made with Love by **Neetesh Sharma**
-
+<p align="center">
 <img src="https://visitcount.itsvg.in/api?id=neetesh1541&icon=6&color=12"/>
+</p>
 
-</div>
+<p align="center">
+Made with ❤️ by <b>Neetesh Sharma</b>
+</p>
