@@ -73,21 +73,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neetesh1541&theme=tokyo-night&hide_border=true"/>
 </p>
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=neetesh1541&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=neetesh1541&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neetesh1541&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=neetesh1541&theme=darkhub&no-frame=true&no-bg=true&margin-w=10)
-
----
-
-![](https://visitcount.itsvg.in/api?id=neetesh1541&icon=0&color=0)
 ## 💬 Quote
 
 > **Code. Create. Innovate. Repeat.**
