@@ -265,7 +265,7 @@ Realtime Communication
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/neetesh1541" alt="GitHub Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/neetesh1541/neetesh1541/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 ---
 
