@@ -321,7 +321,7 @@ Realtime Communication
 
 # 📈 Weekly Development Breakdown
 
-> Replace `YOUR_WAKATIME_USERNAME` with your WakaTime username after creating an account.
+> Replace `YOUR_WAKATIME_neetesh1541` with your WakaTime username after creating an account.
 
 <p align="center">
 
