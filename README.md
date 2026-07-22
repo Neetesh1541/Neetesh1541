@@ -222,14 +222,14 @@ Realtime Communication
 
 # 💻 Current Focus
 
-```text
+
 🚀 Building AI Products
 🌍 Scaling HackLoop
 🤖 AI Automation
 💼 Growing NexGen
 📚 Learning System Design
 ☁️ Cloud Technologies
-```
+
 
 ---
 
@@ -264,7 +264,6 @@ Realtime Communication
 ---
 # 🐍 Contribution Snake
 
-> ⚠️ **Ye tabhi dikhega jab Part 4 me diya gaya GitHub Actions workflow setup karoge.**
 
 <p align="center">
 
