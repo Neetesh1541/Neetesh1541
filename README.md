@@ -22,36 +22,36 @@
 </p>
 
 ---
-
 # 🚀 About Me
 
-```js
+```javascript
 const neetesh = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    founder: "HackLoop",
-    agency: "NexGen",
-    portfolio: "https://neetesh.tech",
-    email: "neeteshk1104@gmail.com",
+  name: "Neetesh Sharma",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  founder: "HackLoop",
+  company: "NexGen",
+  portfolio: "https://neetesh.tech",
+  email: "neeteshk1104@gmail.com",
 
-    currentlyLearning: [
-        "Next.js",
-        "AI Engineering",
-        "System Design",
-        "Cloud"
-    ],
+  currentlyLearning: [
+    "Next.js",
+    "AI Engineering",
+    "System Design",
+    "Cloud Computing"
+  ],
 
-    interests: [
-        "Artificial Intelligence",
-        "Automation",
-        "Open Source",
-        "Developer Relations",
-        "Startups"
-    ]
-}
+  interests: [
+    "Artificial Intelligence",
+    "Automation",
+    "Open Source",
+    "Developer Relations",
+    "Startups"
+  ],
+
+  motto: "Code. Build. Learn. Repeat."
+};
 ```
-
----
 
 # 🌐 Connect With Me
 
