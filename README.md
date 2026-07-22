@@ -293,17 +293,7 @@ Realtime Communication
 
 ---
 
-# 📈 Weekly Development Breakdown
 
-> Replace `YOUR_WAKATIME_neetesh1541` with your WakaTime username after creating an account.
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 💬 Random Dev Quote
 
