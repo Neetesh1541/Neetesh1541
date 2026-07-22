@@ -264,13 +264,9 @@ Realtime Communication
 ---
 # 🐍 Contribution Snake
 
-
-## 📅 Contribution Calendar
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/neetesh1541" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/58a6ff/neetesh1541" alt="GitHub Contribution Chart" />
 </p>
-
 ---
 
 # ⚙️ Development Environment
