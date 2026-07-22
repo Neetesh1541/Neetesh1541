@@ -265,14 +265,10 @@ Realtime Communication
 # 🐍 Contribution Snake
 
 
+## 📅 Contribution Calendar
+
 <p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neetesh1541/neetesh1541/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neetesh1541/neetesh1541/output/github-contribution-grid-snake.svg">
-<img src="https://raw.githubusercontent.com/neetesh1541/neetesh1541/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
+  <img src="https://ghchart.rshah.org/neetesh1541" alt="GitHub Contribution Chart" />
 </p>
 
 ---
