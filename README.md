@@ -29,7 +29,7 @@
 - 💻 Full Stack Developer
 - 🤖 AI & Automation Enthusiast
 - 🌐 Founder of **HackLoop**
-- 🚀 Building **NexGen**
+- 🚀 Building **Pixel Brook Studios**
 - 🌱 Currently learning **Next.js, AI Engineering & System Design**
 - 📧 **neeteshk1104@gmail.com**
 - 🌍 **https://neetesh.tech**
