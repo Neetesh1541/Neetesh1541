@@ -94,7 +94,7 @@
 <tr>
 <td width="50%">
 
-### 🌐 NexGen
+### 🌐 Pixel Brook Studio
 Premium Web Development & AI Automation Agency
 
 **Tech Stack**
