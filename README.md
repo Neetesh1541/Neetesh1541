@@ -26,11 +26,11 @@
 
 <img align="right" width="180" src="https://github.com/neetesh1541.png"/>
 
-- 💻 Full Stack Developer
+- 💻 AI/ML Engineer
 - 🤖 AI & Automation Enthusiast
 - 🌐 Founder of **HackLoop**
 - 🚀 Building **Pixel Brook Studios**
-- 🌱 Currently learning **Next.js, AI Engineering & System Design**
+- 🌱 Currently learning **Data Science, AI Engineering & System Design**
 - 📧 **neeteshk1104@gmail.com**
 - 🌍 **https://neetesh.tech**
 
